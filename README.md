@@ -10,14 +10,15 @@ The code is written in the [python](https://www.python.org/) programming languag
 ## Running the survey
 This project assumes you will run a survey using a Google Form.
 
-A note about data use and data privacy:
+### Data use and privacy
 - Every survey should indicate to respondents what you intend to do with the data they provide.
 - We have included an example [Data Use Policy](Data-use-policy.md) in this repository - feel free to modify it and use it.
 
+### Good questions construction
 A few tips on survey question construction:
-2. If you have several multiple choice questions with similar answer options, make those answer options completely identical if possible.
-3. For questions asking respondents to rate something on a linear scale, such as show much they agree or disagree with a statement, provide an even number of response options so respondents can't pick in the middle.
-4. Free text responses, such as comment fields, can provide some of the most interetsing and valuable response, since they are open-ended  However, they are the mosts burdensome and time consuming to analyze.  Limit the number of these fields.
+1. If you have several multiple choice questions with similar answer options, make those answer options completely identical if possible.
+2. For questions asking respondents to rate something on a linear scale, such as show much they agree or disagree with a statement, provide an even number of response options so respondents can't pick in the middle.
+3. Free text responses, such as comment fields, can provide some of the most interetsing and valuable response, since they are open-ended  However, they are the mosts burdensome and time consuming to analyze.  Limit the number of these fields.
 
 ## Setting up your analysis environment
 To run the code, we recommend installing [Anaconda](https://www.anaconda.com/distribution/), which includes everything you need.
