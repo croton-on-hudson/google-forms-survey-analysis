@@ -2,7 +2,7 @@
 This project is intended to help anyone analyze responses to a survey or other questionnaire conducted with Google Forms.
 
 ## Background
-The code here was originally developed to help the volunteer [Bicycle & Pedestrian Committee](https://github.com/croton-on-hudson/bicycle-pedestrian-committee) of the village of Croton-on-Hudson analyze a survey of local residents.
+The code here was originally developed to help the volunteer [Bicycle & Pedestrian Committee](https://github.com/croton-on-hudson/bicycle-pedestrian-committee) of the village of Croton-on-Hudson analyze a survey of local residents' views on non-motorized transportation in the village.
 
 ## Code
 The code is written in the [python](https://www.python.org/) programming language, using the [pandas](https://pandas.pydata.org/) data analysis library.  It is intended to be run as a [Jupyter Notebook](https://jupyter.org/).
