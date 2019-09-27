@@ -20,7 +20,7 @@ We take all measures reasonably necessary to protect against the unauthorized ac
 
 ## What data do we collect when you visit and complete The Great 2019 Croton-on-Hudson Transportation Survey?
 
-The survey is hosted using Google technology, including Google Forms and Google Sheets.  Thus, Google's [Privacy Policy and Terms of Servie](https://policies.google.com) govern how Google collects, maintains, and uses your data.  In this way, our survey is similar to any other Google-operated service such as Gmail in terms of how Google uses your data.
+The survey is hosted using Google technology, including Google Forms and Google Sheets.  Thus, Google's [Privacy Policy and Terms of Service](https://policies.google.com) govern how Google collects, maintains, and uses your data.  In this way, our survey is similar to any other Google-operated service such as Gmail in terms of how Google uses your data.
 
 Our committee members will be able to view your full responses to this survey, including such potential personally-identifying information as:
 - your name, email address, and phone number (if you voluntarily choose to supply them)
