@@ -11,7 +11,8 @@ The code is written in the [python](https://www.python.org/) programming languag
 This project assumes you will run a survey using a Google Form.
 
 ### Data use and privacy
-- Every survey should indicate to respondents what you intend to do with the data they provide.
+A word about data use and data privacy:
+- For ethics and liability reasons, every survey should indicate to respondents what you intend to do with the data they provide - who will have access to it, where will the data be stored, how will it be used, etc.
 - We have included an example [Data Use Policy](Data-use-policy.md) in this repository - feel free to modify it and use it.
 
 ### Good questions construction
